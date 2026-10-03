@@ -17,7 +17,11 @@
   },
   "clock": {
     "interval": 60,
+<<<<<<< HEAD
     "format": "{:%H:%M}",
+=======
+    "format": "{:%I:%M %p}",
+>>>>>>> 1728d4b (mew)
     "tooltip": true
   },
   "network": {

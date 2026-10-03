@@ -13,6 +13,10 @@
     "custom/notification",
     "clock": {
 	"format": "{:%I:%M %p}"
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1728d4b (mew)
 },
   ],
 
